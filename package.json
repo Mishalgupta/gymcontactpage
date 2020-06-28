@@ -1,0 +1,19 @@
+{
+  "name": "express-tutorial",
+  "version": "1.0.0",
+  "description": "This is pakage while studying express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mishal gupta",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodeman": "^1.1.2",
+    "nodemon": "^2.0.4"
+  }
+}
